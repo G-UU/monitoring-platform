@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="cloud-center@localhost" uuid="0c634968-580a-4481-92ba-9a708f8bb7fc">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/cloud-center</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="@175.24.59.243" uuid="d9132d1b-10ca-40ee-a609-17486bf8e8a1">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://175.24.59.243:3306</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="cloud_demo@175.24.59.243" uuid="fdfb4254-5494-402f-9ec6-6e8b70750d96">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://175.24.59.243:3306/cloud_demo</jdbc-url>
+    </data-source>
+  </component>
+</project>

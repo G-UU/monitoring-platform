@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+
+<mapper namespace="com.intelligence.edge.dao.UserMapper">
+
+    <insert id="insertUser" parameterType="com.intelligence.edge.pojo.User" useGeneratedKeys="true" keyProperty="id" >
+        INSERT INTO user
+        (`id`, `username` , `password`,`registtime`,`email`,`phonenumber` ,`devicenumber`,`level`)
+        VALUES (#{id},
+        #{username},
+        #{password},
+        #{registtime},
+        #{email},
+        #{phonenumber},
+        #{devicenumber},
+        #{level});
+    </insert>
+
+    <update id="updateUser" parameterType="com.intelligence.edge.pojo.User">
+        UPDATE user
+            set
+            password = #{password},
+            email = #{email},
+            phonenumber = #{phonenumber},
+            level = #{level}
+        WHERE id = #{id};
+    </update>
+
+    <select id="getPasswordByUsername" parameterType="java.lang.String" resultType="java.lang.String">
+        SELECT "user".password from user WHERE username = #{username};
+    </select>
+
+    <select id="selectUser" parameterType="java.lang.String" resultType="int">
+        SELECT count(*) from user WHERE username= #{username};
+    </select>
+
+    <select id="getUserByID" resultType="java.util.Map">
+        SELECT id, username, registtime, email, phonenumber, devicenumber from user WHERE id= #{id};
+    </select>
+
+    <select id="getLevelById" resultType="java.util.Map">
+        SELECT level from user where id = #{id};
+    </select>
+
+</mapper>

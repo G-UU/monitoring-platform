@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+
+<mapper namespace="com.intelligence.edge.dao.CarENVDataMapper">
+
+    <insert id="insertCarENVData" parameterType="com.intelligence.edge.pojo.EnvironmentInfo" >
+        INSERT INTO car_envdata
+        (`time`,
+        `id`,
+        `longitude`,
+        `latitude`,
+        `temperature`,
+        `wind`,
+        `humidity`)
+        VALUES (#{time},
+        #{carID},
+        #{longitude},
+        #{latitude},
+        #{temperature},
+        #{wind},
+        #{humidity});
+    </insert>
+    <delete id="cleanByDate">
+        delete from car_envdata
+    where time like CONCAT(CONCAT('%',#{cleanDate}),'%')
+    </delete>
+
+    <select id="getCarIDByTime" resultType="java.lang.String" parameterType="String">
+        select distinct id  from car_envdata
+        where  time between #{time1} and #{time2}
+    </select>
+
+    <select id="getEnvDataById" parameterType="java.lang.String" resultType="com.intelligence.edge.pojo.Position">
+        select car_envdata.longitude,car_envdata.latitude from car_envdata Where id=#{Id}
+    </select>
+    <!--
+    <select id="getEnvInfoByTime" resultType="EnvironmentInfo" parameterType="String" >
+        SELECT * from car_envdata WHERE time=#{time};
+    </select>
+    -->
+
+    <select id="getLatestCarEnvInfo" resultType="com.intelligence.edge.pojo.EnvironmentInfo">
+        SELECT * FROM car_envdata AS c,
+        (SELECT id,MAX(time) AS `date` FROM car_envdata AS b GROUP BY id) AS b WHERE c.id = b.id AND c.time = b.date;
+    </select>
+    <select id="getEnvDaysById" resultType="java.lang.String">
+        SELECT DATE_FORMAT(time,'%Y-%m-%d') days from car_envdata WHERE id=#{deviceId} group by days ;
+    </select>
+    <select id="getPositionByIdAndTime" resultType="java.util.Map">
+        SELECT time, longitude, latitude FROM car_envdata WHERE DATE_FORMAT(time,'%Y-%m-%d') = #{date} AND id=#{deviceId};
+    </select>
+    <select id="getLatestCarEnvInfoById" resultType="java.util.LinkedHashMap">
+         SELECT c.id, longitude, latitude, temperature, wind, humidity FROM car_envdata AS c,
+        (SELECT id,MAX(time) AS `date` FROM car_envdata AS b GROUP BY id) AS b WHERE c.id = b.id AND c.time = b.date AND c.id = #{deviceId};
+    </select>
+
+
+</mapper>

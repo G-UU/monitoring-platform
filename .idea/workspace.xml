@@ -1,0 +1,568 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2457d831-492e-42be-859f-b5c74cdf7396" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hs_err_pid19528.log" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@175.24.59.243" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@175.24.59.243" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="cloud-center@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="cloud-center@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="cloud-center@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="cloud-center: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="cloud_demo@175.24.59.243" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="cloud_demo@175.24.59.243" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="cloud_demo@175.24.59.243" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="cloud_demo: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Tag Library Descriptor" />
+        <option value="spring-beans.schema" />
+        <option value="Interface" />
+        <option value="mapper" />
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/java/com/intelligence/edge/service/impl/CarBasicDataServiceImpl.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/com/intelligence/edge/dao/CarBasicDataMapper.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/com/intelligence/edge/service/impl/CarNetServiceImpl.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/com/intelligence/edge/controller/CarNetController.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/com/intelligence/edge/service/CarBasicDataService.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/com/intelligence/edge/server/CarVideoServer.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/com/intelligence/edge/server/CarENVServer.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="C:\Users\gy\.m2\repository" />
+        <option name="userSettingsFile" value="C:\Users\gy\.m2\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectId" id="1dNtZlLov6NjgpZ9CvyLQYrsO3x" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="ignore_missing_gitignore" value="true" />
+    <property name="last_opened_file_path" value="D:/cloud_center_local" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="application.passwordSafe" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\gy\Desktop\reference_code\cloud-center\src\main\resources\templates" />
+      <recent name="F:\边缘云中心\cloud-center\src\main\resources\mapper" />
+      <recent name="F:\边缘云中心\cloud-center\src\main\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.intelligence.edge.service.impl" />
+      <recent name="com.intelligence.edge.pojo" />
+      <recent name="com.intelligence.edge.service" />
+      <recent name="com.intelligence.edge" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\gy\Desktop\reference_code\cloud-center\src\main\java\com\intelligence\edge\controller" />
+      <recent name="F:\边缘云中心\cloud-center\src\main\java\com\intelligence\edge\dao" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.Starter">
+    <configuration name="CameraPushTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CameraPushTest" />
+      <module name="cloud-center" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CameraTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CameraTest" />
+      <module name="cloud-center" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="timeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="timeTest" />
+      <module name="cloud-center" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BasicControllerTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="cloud-center" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BasicControllerTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Starter" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="cloud-center" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.intelligence.edge.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.intelligence.edge.Starter" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.Starter" />
+        <item itemvalue="Application.CameraTest" />
+        <item itemvalue="Application.CameraPushTest" />
+        <item itemvalue="Application.timeTest" />
+        <item itemvalue="JUnit.BasicControllerTest.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="showServicesTree" value="false" />
+  </component>
+  <component name="SpringBootOptions">
+    <option name="showAdditionalConfigNotification" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2457d831-492e-42be-859f-b5c74cdf7396" name="Default Changelist" comment="" />
+      <created>1592277435950</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592277435950</updated>
+      <workItem from="1592277437382" duration="50107000" />
+      <workItem from="1592445273828" duration="11386000" />
+      <workItem from="1592551958191" duration="3206000" />
+      <workItem from="1592657908614" duration="540000" />
+      <workItem from="1592664633184" duration="103000" />
+      <workItem from="1592800865512" duration="1633000" />
+      <workItem from="1592813398753" duration="5000" />
+      <workItem from="1592975448565" duration="5043000" />
+      <workItem from="1593002342267" duration="256000" />
+      <workItem from="1593243885567" duration="1031000" />
+      <workItem from="1593244946611" duration="2348000" />
+      <workItem from="1593247356699" duration="40488000" />
+      <workItem from="1593350845659" duration="1195000" />
+      <workItem from="1593352401393" duration="594000" />
+      <workItem from="1593410490537" duration="19251000" />
+      <workItem from="1593603240370" duration="1346000" />
+      <workItem from="1593678196362" duration="19948000" />
+      <workItem from="1593773931733" duration="297000" />
+      <workItem from="1593782807298" duration="84000" />
+      <workItem from="1593783803700" duration="756000" />
+      <workItem from="1594202862452" duration="181000" />
+      <workItem from="1594203060903" duration="4388000" />
+      <workItem from="1596268358093" duration="332000" />
+      <workItem from="1596268741685" duration="622000" />
+      <workItem from="1596269388483" duration="21523000" />
+      <workItem from="1596417861556" duration="10270000" />
+      <workItem from="1596503148241" duration="47579000" />
+      <workItem from="1596678002680" duration="1256000" />
+      <workItem from="1596679319077" duration="11481000" />
+      <workItem from="1596768599545" duration="21667000" />
+      <workItem from="1596866298241" duration="11090000" />
+      <workItem from="1596935621477" duration="4119000" />
+      <workItem from="1597022612476" duration="11752000" />
+      <workItem from="1597108265481" duration="19717000" />
+      <workItem from="1597195536817" duration="9600000" />
+      <workItem from="1597281399311" duration="1321000" />
+      <workItem from="1597369359589" duration="3593000" />
+      <workItem from="1597454127703" duration="3591000" />
+      <workItem from="1597542731732" duration="3323000" />
+      <workItem from="1597558365678" duration="1223000" />
+      <workItem from="1597816996072" duration="3117000" />
+      <workItem from="1597907849366" duration="1812000" />
+      <workItem from="1597994135697" duration="1279000" />
+      <workItem from="1598854784337" duration="1416000" />
+      <workItem from="1599116355796" duration="1558000" />
+      <workItem from="1599287076989" duration="12901000" />
+      <workItem from="1599452932771" duration="1395000" />
+      <workItem from="1599458921844" duration="7339000" />
+      <workItem from="1599530837183" duration="8689000" />
+      <workItem from="1599638170100" duration="8099000" />
+      <workItem from="1600245854379" duration="616000" />
+      <workItem from="1600303809638" duration="439000" />
+      <workItem from="1600308837569" duration="1262000" />
+      <workItem from="1600327001517" duration="640000" />
+      <workItem from="1600820608516" duration="2060000" />
+      <workItem from="1602637119607" duration="1509000" />
+      <workItem from="1603238950465" duration="2624000" />
+      <workItem from="1603497895961" duration="1193000" />
+      <workItem from="1603714554439" duration="833000" />
+      <workItem from="1603755777194" duration="14030000" />
+      <workItem from="1603840009743" duration="2050000" />
+      <workItem from="1603851903310" duration="3971000" />
+      <workItem from="1603961158013" duration="9034000" />
+      <workItem from="1604020339224" duration="7852000" />
+      <workItem from="1604283521600" duration="1475000" />
+      <workItem from="1604285083741" duration="6470000" />
+      <workItem from="1604455430534" duration="1717000" />
+      <workItem from="1605053414607" duration="2335000" />
+      <workItem from="1605957696374" duration="1257000" />
+      <workItem from="1606217882933" duration="624000" />
+      <workItem from="1606550309466" duration="20203000" />
+      <workItem from="1606829999104" duration="749000" />
+      <workItem from="1607170321874" duration="4289000" />
+      <workItem from="1607428129670" duration="1554000" />
+      <workItem from="1607604471988" duration="517000" />
+      <workItem from="1607844238012" duration="3392000" />
+      <workItem from="1607927704305" duration="1913000" />
+      <workItem from="1607943791631" duration="96000" />
+      <workItem from="1608024201022" duration="1304000" />
+      <workItem from="1608028338470" duration="229000" />
+      <workItem from="1608043713024" duration="3155000" />
+      <workItem from="1608077963152" duration="3544000" />
+      <workItem from="1608086732595" duration="2033000" />
+      <workItem from="1608123596655" duration="659000" />
+      <workItem from="1608195413600" duration="1795000" />
+      <workItem from="1608290302036" duration="3139000" />
+      <workItem from="1608363891184" duration="12955000" />
+      <workItem from="1608427226772" duration="10662000" />
+      <workItem from="1608468274814" duration="11120000" />
+      <workItem from="1608512859597" duration="15450000" />
+      <workItem from="1608605255477" duration="24898000" />
+      <workItem from="1608779331071" duration="2039000" />
+      <workItem from="1608782191417" duration="14407000" />
+      <workItem from="1608859101991" duration="5675000" />
+      <workItem from="1608952586309" duration="21434000" />
+      <workItem from="1609072073299" duration="12000" />
+      <workItem from="1609072597142" duration="657000" />
+      <workItem from="1609158006347" duration="1609000" />
+      <workItem from="1609255134226" duration="5291000" />
+      <workItem from="1609406861127" duration="880000" />
+      <workItem from="1609665206111" duration="8525000" />
+      <workItem from="1609835852044" duration="1782000" />
+      <workItem from="1609858416478" duration="1714000" />
+      <workItem from="1609926868802" duration="1196000" />
+      <workItem from="1609981111390" duration="77000" />
+      <workItem from="1616913931753" duration="1008000" />
+      <workItem from="1617153400974" duration="1454000" />
+      <workItem from="1617157120576" duration="5187000" />
+      <workItem from="1617237429503" duration="3754000" />
+    </task>
+    <task id="LOCAL-00001" summary="添加webSocket">
+      <created>1593255879692</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1593255879692</updated>
+    </task>
+    <task id="LOCAL-00002" summary="添加了连接测试功能">
+      <created>1593334068720</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1593334068720</updated>
+    </task>
+    <task id="LOCAL-00003" summary="完善了设备管理功能">
+      <created>1593344911798</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1593344911798</updated>
+    </task>
+    <task id="LOCAL-00004" summary="启动重置所有设备的连接">
+      <created>1593351499499</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1593351499499</updated>
+    </task>
+    <task id="LOCAL-00005" summary="启动重置所有设备的连接">
+      <created>1593351944772</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1593351944772</updated>
+    </task>
+    <task id="LOCAL-00006" summary="修复了Linux连通性测试失效BUG">
+      <created>1593529932580</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1593529932581</updated>
+    </task>
+    <task id="LOCAL-00007" summary="完善控制端口重启">
+      <created>1593771288264</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1593771288264</updated>
+    </task>
+    <task id="LOCAL-00008" summary="仿造小车通信代码实现无人机环境数据通信模快">
+      <created>1596613628390</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1596613628390</updated>
+    </task>
+    <task id="LOCAL-00009" summary="简易视频传输完成">
+      <created>1597023896716</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1597023896717</updated>
+    </task>
+    <task id="LOCAL-00010" summary="设备控制平台已初步搭建">
+      <created>1617154227936</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1617154227936</updated>
+    </task>
+    <task id="LOCAL-00011" summary="设备控制平台已初步搭建">
+      <created>1617237757924</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1617237757924</updated>
+    </task>
+    <task id="LOCAL-00012" summary="设备控制平台已初步搭建">
+      <created>1617238197456</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1617238197456</updated>
+    </task>
+    <task id="LOCAL-00013" summary="设备控制平台已初步搭建">
+      <created>1617245515543</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1617245515543</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="添加webSocket" />
+    <MESSAGE value="添加了连接测试功能" />
+    <MESSAGE value="完善了设备管理功能" />
+    <MESSAGE value="启动重置所有设备的连接" />
+    <MESSAGE value="修复了Linux连通性测试失效BUG" />
+    <MESSAGE value="完善控制端口重启" />
+    <MESSAGE value="仿造小车通信代码实现无人机环境数据通信模快" />
+    <MESSAGE value="简易视频传输完成" />
+    <MESSAGE value="设备控制平台已初步搭建" />
+    <option name="LAST_COMMIT_MESSAGE" value="设备控制平台已初步搭建" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="452" y="96" key="#Inspections" />
+    <state x="452" y="96" key="#Inspections/0.0.1920.1040/-1440.174.1440.860@0.0.1920.1040" />
+    <state x="283" y="7" key="#Project_Structure" />
+    <state x="-1228" y="180" key="#Project_Structure/0.0.1920.1040/-1440.174.1440.860@-1440.174.1440.860" />
+    <state x="283" y="7" key="#Project_Structure/0.0.1920.1040/-1440.174.1440.860@0.0.1920.1040" />
+    <state x="-1018" y="390" key="#com.intellij.fileTypes.FileTypeChooser" />
+    <state x="-1018" y="390" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/-1440.174.1440.860@-1440.174.1440.860" />
+    <state x="721" y="162" key="#com.intellij.ide.util.MemberChooser" />
+    <state x="721" y="162" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/-1440.174.1440.860@0.0.1920.1040" />
+    <state x="708" y="354" width="503" height="343" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" />
+    <state x="708" y="354" width="503" height="343" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040/-1440.174.1440.860@0.0.1920.1040" />
+    <state x="468" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" />
+    <state x="468" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040/-1440.174.1440.860@0.0.1920.1040" />
+    <state x="376" y="11" key="CommitChangelistDialog2" />
+    <state x="376" y="11" key="CommitChangelistDialog2/0.0.1920.1040/-1440.174.1440.860@0.0.1920.1040" />
+    <state x="600" y="155" key="FileChooserDialogImpl" />
+    <state x="-990" y="302" key="FileChooserDialogImpl/0.0.1920.1040/-1440.174.1440.860@-1440.174.1440.860" />
+    <state x="600" y="155" key="FileChooserDialogImpl/0.0.1920.1040/-1440.174.1440.860@0.0.1920.1040" />
+    <state width="1867" height="387" key="GridCell.Tab.0.bottom" />
+    <state width="1867" height="387" key="GridCell.Tab.0.bottom/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" />
+    <state width="1867" height="549" key="GridCell.Tab.0.bottom/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" />
+    <state width="1387" height="293" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1440.174.1440.860@-1440.174.1440.860" />
+    <state width="1867" height="293" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1440.174.1440.860@0.0.1920.1040" />
+    <state width="1867" height="387" key="GridCell.Tab.0.center" />
+    <state width="1867" height="387" key="GridCell.Tab.0.center/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" />
+    <state width="1867" height="549" key="GridCell.Tab.0.center/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" />
+    <state width="1387" height="293" key="GridCell.Tab.0.center/0.0.1920.1040/-1440.174.1440.860@-1440.174.1440.860" />
+    <state width="1867" height="293" key="GridCell.Tab.0.center/0.0.1920.1040/-1440.174.1440.860@0.0.1920.1040" />
+    <state width="1867" height="387" key="GridCell.Tab.0.left" />
+    <state width="1867" height="387" key="GridCell.Tab.0.left/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" />
+    <state width="1867" height="549" key="GridCell.Tab.0.left/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" />
+    <state width="1387" height="293" key="GridCell.Tab.0.left/0.0.1920.1040/-1440.174.1440.860@-1440.174.1440.860" />
+    <state width="1867" height="293" key="GridCell.Tab.0.left/0.0.1920.1040/-1440.174.1440.860@0.0.1920.1040" />
+    <state width="1867" height="387" key="GridCell.Tab.0.right" />
+    <state width="1867" height="387" key="GridCell.Tab.0.right/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" />
+    <state width="1867" height="549" key="GridCell.Tab.0.right/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" />
+    <state width="1387" height="293" key="GridCell.Tab.0.right/0.0.1920.1040/-1440.174.1440.860@-1440.174.1440.860" />
+    <state width="1867" height="293" key="GridCell.Tab.0.right/0.0.1920.1040/-1440.174.1440.860@0.0.1920.1040" />
+    <state width="1867" height="387" key="GridCell.Tab.1.bottom" />
+    <state width="1867" height="387" key="GridCell.Tab.1.bottom/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" />
+    <state width="1867" height="549" key="GridCell.Tab.1.bottom/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" />
+    <state width="1387" height="340" key="GridCell.Tab.1.bottom/0.0.1920.1040/-1440.174.1440.860@-1440.174.1440.860" />
+    <state width="1867" height="293" key="GridCell.Tab.1.bottom/0.0.1920.1040/-1440.174.1440.860@0.0.1920.1040" />
+    <state width="1867" height="387" key="GridCell.Tab.1.center" />
+    <state width="1867" height="387" key="GridCell.Tab.1.center/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" />
+    <state width="1867" height="549" key="GridCell.Tab.1.center/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" />
+    <state width="1387" height="340" key="GridCell.Tab.1.center/0.0.1920.1040/-1440.174.1440.860@-1440.174.1440.860" />
+    <state width="1867" height="293" key="GridCell.Tab.1.center/0.0.1920.1040/-1440.174.1440.860@0.0.1920.1040" />
+    <state width="1867" height="387" key="GridCell.Tab.1.left" />
+    <state width="1867" height="387" key="GridCell.Tab.1.left/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" />
+    <state width="1867" height="549" key="GridCell.Tab.1.left/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" />
+    <state width="1387" height="340" key="GridCell.Tab.1.left/0.0.1920.1040/-1440.174.1440.860@-1440.174.1440.860" />
+    <state width="1867" height="293" key="GridCell.Tab.1.left/0.0.1920.1040/-1440.174.1440.860@0.0.1920.1040" />
+    <state width="1867" height="387" key="GridCell.Tab.1.right" />
+    <state width="1867" height="387" key="GridCell.Tab.1.right/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" />
+    <state width="1867" height="549" key="GridCell.Tab.1.right/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" />
+    <state width="1387" height="340" key="GridCell.Tab.1.right/0.0.1920.1040/-1440.174.1440.860@-1440.174.1440.860" />
+    <state width="1867" height="293" key="GridCell.Tab.1.right/0.0.1920.1040/-1440.174.1440.860@0.0.1920.1040" />
+    <state width="1867" height="333" key="GridCell.Tab.2.bottom" />
+    <state width="1867" height="333" key="GridCell.Tab.2.bottom/0.0.1920.1040/-1440.174.1440.860@0.0.1920.1040" />
+    <state width="1867" height="333" key="GridCell.Tab.2.center" />
+    <state width="1867" height="333" key="GridCell.Tab.2.center/0.0.1920.1040/-1440.174.1440.860@0.0.1920.1040" />
+    <state width="1867" height="333" key="GridCell.Tab.2.left" />
+    <state width="1867" height="333" key="GridCell.Tab.2.left/0.0.1920.1040/-1440.174.1440.860@0.0.1920.1040" />
+    <state width="1867" height="333" key="GridCell.Tab.2.right" />
+    <state width="1867" height="333" key="GridCell.Tab.2.right/0.0.1920.1040/-1440.174.1440.860@0.0.1920.1040" />
+    <state x="259" y="99" key="SettingsEditor" />
+    <state x="259" y="99" key="SettingsEditor/0.0.1920.1040/-1440.174.1440.860@0.0.1920.1040" />
+    <state width="623" height="498" key="SwitcherDM" />
+    <state width="623" height="498" key="SwitcherDM/0.0.1920.1040/-1440.174.1440.860@0.0.1920.1040" />
+    <state x="452" y="188" key="Vcs.Push.Dialog.v2" />
+    <state x="452" y="188" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1440.174.1440.860@0.0.1920.1040" />
+    <state x="532" y="237" key="run.anything.popup" />
+    <state x="532" y="237" key="run.anything.popup/0.0.1920.1040/-1440.174.1440.860@0.0.1920.1040" />
+    <state x="539" y="5" width="840" height="1034" key="search.everywhere.popup" />
+    <state x="539" y="5" width="840" height="1034" key="search.everywhere.popup/0.0.1920.1040/-1440.174.1440.860@0.0.1920.1040" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="((FileInputStream)in).path" custom="java.io.FileInputStream" />
+        <watch expression="((FileInputStream)in).path" custom="java.io.FileInputStream" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
